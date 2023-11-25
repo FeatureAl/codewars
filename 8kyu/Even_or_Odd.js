@@ -8,4 +8,4 @@ function evenOrOdd(number) {
       return"Odd"
     }
     return "Even"
-  }
+  } 
